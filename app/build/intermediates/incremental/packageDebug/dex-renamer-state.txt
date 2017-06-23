@@ -1,0 +1,7 @@
+#Fri Jun 23 10:01:26 CEST 2017
+base.0=C\:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_25586a49d588e2da14b639941f47953d09752f40
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_563ca41c82247d2250eb303cec79408954ea261c\\classes.dex
+base.1=C\:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_563ca41c82247d2250eb303cec79408954ea261c
+file.0=C\:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_25586a49d588e2da14b639941f47953d09752f40\\classes.dex

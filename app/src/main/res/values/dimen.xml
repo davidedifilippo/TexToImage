@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <dimen name="title_size">25sp</dimen>
+   <dimen name="image_width">270dp</dimen>
+   <dimen name="image_height">170dp</dimen>
+   <dimen name="answer_size">40sp</dimen>
+   <dimen name="text_size">10sp</dimen>
+</resources>

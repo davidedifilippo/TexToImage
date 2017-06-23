@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\david\.android\build-cache\f2ac3632c22c27c9522c03a61f07d75c182d0e86\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\david\StudioProjects\TexToImage\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_392e2bee27544e51bc08febaddadda7eee4e01dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\david\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\david\StudioProjects\TexToImage\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_b68ce602bc2b8bc4d6e8eb524111d6b74f10294d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\david\StudioProjects\TexToImage\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="52a4893a524ebef280684ac089ca59d5f405a84d">
+        <dex dex="C:\Users\david\StudioProjects\TexToImage\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_25586a49d588e2da14b639941f47953d09752f40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\david\.android\build-cache\f2ac3632c22c27c9522c03a61f07d75c182d0e86\output\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\david\StudioProjects\TexToImage\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_f24cdd44ae385e12a0a523063d42d339aeb7b36a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\david\StudioProjects\TexToImage\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\david\StudioProjects\TexToImage\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_563ca41c82247d2250eb303cec79408954ea261c\classes.dex" />
+    </item>
+
+</items>

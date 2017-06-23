@@ -1,0 +1,10 @@
+#Fri Jun 23 09:19:53 CEST 2017
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.2=C\:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_392e2bee27544e51bc08febaddadda7eee4e01dd
+base.1=C\:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_f24cdd44ae385e12a0a523063d42d339aeb7b36a
+base.0=C\:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_b68ce602bc2b8bc4d6e8eb524111d6b74f10294d
+file.2=C\:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_392e2bee27544e51bc08febaddadda7eee4e01dd\\classes.dex
+file.1=C\:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_f24cdd44ae385e12a0a523063d42d339aeb7b36a\\classes.dex
+file.0=C\:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_b68ce602bc2b8bc4d6e8eb524111d6b74f10294d\\classes.dex

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TexToImage</string>
+    <string name="file_name">filename:</string>
+    <string name="hint_message">Type here the message to hide</string>
+    <string name="LoadFromSd">Load encrypted image from SD</string>
+    <string name="SaveToSd">Save encrypted image to SD</string>
+    <string name="SaveToGallery">Save encrypted image to gallery</string>
+    <string name="message_saved">File saved</string>
+    <string name="message_save">Saved:</string>
+    <string name="message_error_saving">:( error saving!</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="chooser_image">select</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="select_image">Select Image</string>
+    <string name="save_image">Save encrypted image </string>
+    <string name="load_from_gallery">Load from gallery</string>
+    <string name="save_to_dir">Save Encrypted</string>
+    <string name="title_save_dialog">Save Image </string>
+    <string name="cancel_Button">Cancel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_list">TexToImage: load encrypted image</string>
+    <string name="menu_settings">Settings</string>
+    
+    
+
+</resources>

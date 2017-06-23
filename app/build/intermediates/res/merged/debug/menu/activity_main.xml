@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <item android:id="@+id/loadItem" 
+        android:orderInCategory="1" 
+        android:title="@string/LoadFromSd" 
+        android:icon="@android:drawable/ic_menu_save"></item>
+
+    <item android:id="@+id/SaveSdItem" 
+        android:orderInCategory="2" 
+        android:title="@string/SaveToSd" 
+        android:icon="@android:drawable/ic_menu_save"></item>
+    
+    
+</menu>

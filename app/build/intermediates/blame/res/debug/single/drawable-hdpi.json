@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo4.png",
+        "source": "C:\\Users\\david\\StudioProjects\\TexToImage\\app\\src\\main\\res\\drawable-hdpi\\logo4.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo3.png",
+        "source": "C:\\Users\\david\\StudioProjects\\TexToImage\\app\\src\\main\\res\\drawable-hdpi\\logo3.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_delete.png",
+        "source": "C:\\Users\\david\\StudioProjects\\TexToImage\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\TexToImage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_save.png",
+        "source": "C:\\Users\\david\\StudioProjects\\TexToImage\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_save.png"
+    }
+]

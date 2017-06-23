@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\david\.android\build-cache\f2ac3632c22c27c9522c03a61f07d75c182d0e86\output\assets"/></dataSet><dataSet config="main"><source path="C:\Users\david\StudioProjects\TexToImage\app\src\main\assets"/><source path="C:\Users\david\StudioProjects\TexToImage\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\david\StudioProjects\TexToImage\app\src\debug\assets"/></dataSet></merger>
